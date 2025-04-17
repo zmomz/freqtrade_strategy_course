@@ -3,7 +3,6 @@
 Welcome to the official Freqtrade Strategy Creation Course! This course walks you through building, optimizing, and enhancing crypto trading strategies using [Freqtrade](https://www.freqtrade.io/) — from beginner to pro.
 
 ---
-
 ## 📚 Course Structure
 
 ### 📦 [Module 1: Foundations of Strategy Building](./module_1_foundations/)
@@ -11,6 +10,9 @@ Welcome to the official Freqtrade Strategy Creation Course! This course walks yo
 
 ### 📦 [Module 2: Enhancing and Refining Your Strategy](./module_2_refining_strategy/)
 > Add filters, informative indicators, and polish.
+
+### 🧩 [Module 2.5: Translating Pine Script to Freqtrade](./module_2_5_pinescript_conversion/)
+> Learn how to convert TradingView Pine Script strategies into Freqtrade Python strategies.
 
 ### 📦 [Module 3: Strategy Optimization with Hyperopt](./module_3_hyperopt_optimization/)
 > Make your strategy hyperopt-ready and safely optimize parameters.
